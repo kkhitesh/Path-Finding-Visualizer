@@ -12,7 +12,7 @@ A  Python GUI App which visualizes path finding in pygame window.
 ##### Clone the repository
 
 ```bash
-git clone https://github.com/karan0805/Path-Finding-Visualizer.git
+git clone https://github.com/kkhitesh/Path-Finding-Visualizer.git
 ```
 
 ##### Move to the desired folder
